@@ -32,6 +32,7 @@ Two ways in, two philosophies. **The [Claude Code plugin](https://code.claude.co
 <summary><strong>Claude Code</strong></summary>
 
 ```bash
+claude plugin marketplace add mattpocock/skills
 claude plugins install mattpocock-skills
 ```
 
