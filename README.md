@@ -32,6 +32,7 @@ Two ways in, two philosophies. **The [Claude Code plugin](https://code.claude.co
 <summary><strong>Claude Code</strong></summary>
 
 ```bash
+claude plugins marketplace add mattpocock/skills
 claude plugins install mattpocock-skills
 ```
 
@@ -40,8 +41,6 @@ Or, from inside a session:
 ```
 /plugin install mattpocock-skills
 ```
-
-It's in Claude Code's official marketplace, so there's nothing to add first, and updates arrive automatically.
 
 </details>
 
